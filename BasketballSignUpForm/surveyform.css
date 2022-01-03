@@ -5,13 +5,15 @@ body {
     background: url("https://miro.medium.com/max/3000/1*cCVNVmTTAX_FMiuETPGkDA.jpeg");
     background-size: cover;
     background-position: center;   
+    background-repeat: no-repeat;
+    height: 70vh;
 }
 
 .wholebody{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 250px;
+    margin-top: 350px;
 }
 
 
